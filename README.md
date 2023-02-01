@@ -32,6 +32,25 @@ Feel free to do both of these tasks, one or none.
 Cheat sheet for commands is [here](https://education.github.com/git-cheat-sheet-education.pdf).
 
 ### Have you been here? Let me know 
+
+Yes, I was :)
+=======
 I have been here (?)
 
+efkucio-sakele
 pakeitimaiii
+=======
+=======
+Been here AJ
+
+=======
+
+Been here RK
+Yes!
+:)
+
+I have been here as well :)
+hello :) 
+
+
+
