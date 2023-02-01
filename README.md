@@ -17,7 +17,7 @@ Feel free to do both of these tasks, one or none.
 
 1. With the existing (this) repo:
    - Create a new branch and let me know that you have been here 
-   - Create a pull request, request anyone to approve it
+   - Create a pull request, request anyone to approve it 
    - Merge pull request 
    - Release new version
 2. Create a new repo
@@ -32,4 +32,21 @@ Feel free to do both of these tasks, one or none.
 Cheat sheet for commands is [here](https://education.github.com/git-cheat-sheet-education.pdf).
 
 ### Have you been here? Let me know 
+
 Yes, I was :)
+=======
+I have been here (?)
+
+=======
+Been here AJ
+
+=======
+
+Been here RK
+Yes!
+:)
+
+I have been here as well :)
+hello :) 
+
+
